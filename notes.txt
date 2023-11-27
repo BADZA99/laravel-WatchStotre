@@ -1,0 +1,2 @@
+// composer create-project --prefer-dist laravel/laravel watchesStore pour creer un projet
+// php artisan serve pour lancer le serveur
